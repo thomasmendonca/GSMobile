@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674041086879",
+    "project_id": "autentication-f7861",
+    "storage_bucket": "autentication-f7861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674041086879:android:ee451b94fbd238f156b3aa",
+        "android_client_info": {
+          "package_name": "com.exemple.gs1sem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLxk91gbBlmnR5PGObI16knihYSZxc4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
